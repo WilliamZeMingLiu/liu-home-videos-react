@@ -1,0 +1,12 @@
+.video_list {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.list_title {
+	font-size: 40px;
+	padding-bottom: 8px;
+	border-bottom: 1px solid black;
+	font-family: "Roboto";
+	font-weight: bold;
+}

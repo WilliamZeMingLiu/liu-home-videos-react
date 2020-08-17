@@ -1,0 +1,53 @@
+.App {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+
+.header {
+	width: 65%;
+	min-width: 420px;
+	text-align: center;
+}
+
+.header_title {
+	font-size: 50px;
+	font-weight: bold;
+	padding-top: 30px;
+	font-family: "Roboto";
+}
+
+.header_description {
+	font-size: 30px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-family: "Roboto";
+}
+
+.scrollbar {
+	padding-bottom: 60px;
+}
+
+.scrollbar-item {
+	margin: 4px;
+	border-radius: 5px;
+	font-size: 20px;
+	transition: 0.25s;
+	border: solid 0.5px #bdbdbd;
+}
+
+.scrollbar-item-link {
+	color: #242424;
+	transition: 0.25s;
+}
+
+.scrollbar-item:hover {
+	background-color: #bdbdbd;
+}
+
+.video_list_holder {
+	width: 95%;
+}

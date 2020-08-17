@@ -1,0 +1,37 @@
+.holder {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	padding: 30px 50px;
+	max-width: 435px;
+}
+
+.video_thumbnail {
+	width: 335px;
+	transition: 0.25s;
+}
+
+.thumbnail_holder{
+	cursor: pointer;
+	height: 251px;
+}
+
+.thumbnail_holder:hover img {
+	filter: brightness(70%);
+}
+
+.thumbnail_holder:hover .play-icon {
+	opacity: 1;
+}
+
+.holder h1 {
+	font-size: 22px;
+	padding-top: 10px;
+}
+
+.play-icon {
+	position: relative;
+	top: -155px;
+	opacity: 0;
+	transition: 0.25s;
+}
