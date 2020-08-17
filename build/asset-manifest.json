@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/liu-home-videos-frontend/static/css/main.c4b33266.chunk.css",
-    "main.js": "/liu-home-videos-frontend/static/js/main.63b309ca.chunk.js",
-    "main.js.map": "/liu-home-videos-frontend/static/js/main.63b309ca.chunk.js.map",
-    "runtime-main.js": "/liu-home-videos-frontend/static/js/runtime-main.31efb76a.js",
-    "runtime-main.js.map": "/liu-home-videos-frontend/static/js/runtime-main.31efb76a.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/liu-home-videos-frontend/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ff9843d0.chunk.js": "/liu-home-videos-frontend/static/js/2.ff9843d0.chunk.js",
-    "static/js/2.ff9843d0.chunk.js.map": "/liu-home-videos-frontend/static/js/2.ff9843d0.chunk.js.map",
-    "index.html": "/liu-home-videos-frontend/index.html",
-    "precache-manifest.7a5f6a69684c4d6402d7b005b0f12414.js": "/liu-home-videos-frontend/precache-manifest.7a5f6a69684c4d6402d7b005b0f12414.js",
-    "service-worker.js": "/liu-home-videos-frontend/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/liu-home-videos-frontend/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.c4b33266.chunk.css.map": "/liu-home-videos-frontend/static/css/main.c4b33266.chunk.css.map",
-    "static/js/2.ff9843d0.chunk.js.LICENSE.txt": "/liu-home-videos-frontend/static/js/2.ff9843d0.chunk.js.LICENSE.txt"
+    "main.css": "/liu-home-videos-react/static/css/main.c4b33266.chunk.css",
+    "main.js": "/liu-home-videos-react/static/js/main.bb3a6dc6.chunk.js",
+    "main.js.map": "/liu-home-videos-react/static/js/main.bb3a6dc6.chunk.js.map",
+    "runtime-main.js": "/liu-home-videos-react/static/js/runtime-main.401a4792.js",
+    "runtime-main.js.map": "/liu-home-videos-react/static/js/runtime-main.401a4792.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/liu-home-videos-react/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ff9843d0.chunk.js": "/liu-home-videos-react/static/js/2.ff9843d0.chunk.js",
+    "static/js/2.ff9843d0.chunk.js.map": "/liu-home-videos-react/static/js/2.ff9843d0.chunk.js.map",
+    "index.html": "/liu-home-videos-react/index.html",
+    "precache-manifest.a1fd2cace411510ced85a6125f8f164e.js": "/liu-home-videos-react/precache-manifest.a1fd2cace411510ced85a6125f8f164e.js",
+    "service-worker.js": "/liu-home-videos-react/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/liu-home-videos-react/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.c4b33266.chunk.css.map": "/liu-home-videos-react/static/css/main.c4b33266.chunk.css.map",
+    "static/js/2.ff9843d0.chunk.js.LICENSE.txt": "/liu-home-videos-react/static/js/2.ff9843d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31efb76a.js",
+    "static/js/runtime-main.401a4792.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.ff9843d0.chunk.js",
     "static/css/main.c4b33266.chunk.css",
-    "static/js/main.63b309ca.chunk.js"
+    "static/js/main.bb3a6dc6.chunk.js"
   ]
 }
