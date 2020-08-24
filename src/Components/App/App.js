@@ -45,7 +45,7 @@ class App extends React.Component {
       <div className="App">
 
         <div className="header">
-          <h1 className="header_title">The Liu Family's Home Videos</h1>
+          <h1 className="header_title">Liu Family's Home Videos</h1>
           <p className="header_description">A collection of the Liu family's home videos throughout the years</p> 
           <Nav fill variant="pills" className="scrollbar">
             {
