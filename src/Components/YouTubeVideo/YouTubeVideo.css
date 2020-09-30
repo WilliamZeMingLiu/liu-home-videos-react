@@ -3,11 +3,12 @@
 	vertical-align: top;
 	text-align: center;
 	padding: 30px 50px;
-	max-width: 435px;
+	max-width: 440px;
+	position: relative;
 }
 
 .video_thumbnail {
-	width: 335px;
+	width: 340px;
 	transition: 0.25s;
 }
 
@@ -30,8 +31,10 @@
 }
 
 .play-icon {
-	position: relative;
-	top: -155px;
+	position: absolute;
+	width: 80px;
+	left: 180px;
+	bottom: 50%;
 	opacity: 0;
 	transition: 0.25s;
 }

@@ -16,13 +16,13 @@ class YouTubeVideo extends React.Component {
   render() {
     return (
 		<div className="holder">
-      <div className="thumbnail_holder" onClick={() => this.setState({addModalShow: true})} >
-  			<img src={this.props.thumbnail} className="video_thumbnail"/>
+      <div className="thumbnail_holder" onClick={() => this.setState({addModalShow: true})}>
+        <img src={this.props.thumbnail} className="video_thumbnail"/>
         <IconContext.Provider value={{color: 'white', size: '60px'}}>
-          <FaPlayCircle className="play-icon"/>
+          <FaPlayCircle className="play-icon" />
         </IconContext.Provider>
       </div>
-			<h1>{this.props.title}</h1>		
+			<h1>{this.props.title}</h1>	
 			<VideoModal show={this.state.addModalShow} onHide={() => this.setState({addModalShow: false})} link={this.props.link} id={this.props.id} title={this.props.title} />	
 		</div>
 

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/liu-home-videos-react/static/css/main.c4b33266.chunk.css",
-    "main.js": "/liu-home-videos-react/static/js/main.bb3a6dc6.chunk.js",
-    "main.js.map": "/liu-home-videos-react/static/js/main.bb3a6dc6.chunk.js.map",
-    "runtime-main.js": "/liu-home-videos-react/static/js/runtime-main.401a4792.js",
-    "runtime-main.js.map": "/liu-home-videos-react/static/js/runtime-main.401a4792.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/liu-home-videos-react/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ff9843d0.chunk.js": "/liu-home-videos-react/static/js/2.ff9843d0.chunk.js",
-    "static/js/2.ff9843d0.chunk.js.map": "/liu-home-videos-react/static/js/2.ff9843d0.chunk.js.map",
-    "index.html": "/liu-home-videos-react/index.html",
-    "precache-manifest.a1fd2cace411510ced85a6125f8f164e.js": "/liu-home-videos-react/precache-manifest.a1fd2cace411510ced85a6125f8f164e.js",
-    "service-worker.js": "/liu-home-videos-react/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/liu-home-videos-react/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.c4b33266.chunk.css.map": "/liu-home-videos-react/static/css/main.c4b33266.chunk.css.map",
-    "static/js/2.ff9843d0.chunk.js.LICENSE.txt": "/liu-home-videos-react/static/js/2.ff9843d0.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.c4b33266.chunk.css",
+    "main.js": "/static/js/main.07bf1e3a.chunk.js",
+    "main.js.map": "/static/js/main.07bf1e3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35311a2a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35311a2a.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ff9843d0.chunk.js": "/static/js/2.ff9843d0.chunk.js",
+    "static/js/2.ff9843d0.chunk.js.map": "/static/js/2.ff9843d0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3e603caceb27a60bee3aa9c2fa55872e.js": "/precache-manifest.3e603caceb27a60bee3aa9c2fa55872e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.c4b33266.chunk.css.map": "/static/css/main.c4b33266.chunk.css.map",
+    "static/js/2.ff9843d0.chunk.js.LICENSE.txt": "/static/js/2.ff9843d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.401a4792.js",
+    "static/js/runtime-main.35311a2a.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.ff9843d0.chunk.js",
     "static/css/main.c4b33266.chunk.css",
-    "static/js/main.bb3a6dc6.chunk.js"
+    "static/js/main.07bf1e3a.chunk.js"
   ]
 }
